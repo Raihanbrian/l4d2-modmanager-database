@@ -20,7 +20,7 @@ binary redistribution checks or authorize a public release automatically.
 | libffi 3.4.4, Expat, zlib-ng 2.2.4, Zstandard 1.5.7, XZ 5.2.5 | Original relevant upstream notices included |
 | SQLite 3.50.4 | Upstream public-domain dedication; synthetic demo is project-authored |
 | PyInstaller 6.22.3 | Bootloader exception permits separately licensed bundled apps, subject to dependency terms |
-| Windows C/UCRT/API runtime DLLs | Microsoft distribution rights must be confirmed before public binary release; no ownership/relicensing claimed |
+| Windows C runtime DLLs | VCRUNTIME140.dll and VCRUNTIME140_1.dll from the CPython installation; original Windows binary conditions retained in python-LICENSE.txt |
 
 The bundled license texts are in the portable `licenses` directory. This software
 is based in part on the work of the Independent JPEG Group. Pillow's combined
@@ -35,11 +35,13 @@ References: [CPython license](https://docs.python.org/3/license.html),
 [Microsoft redistributable guidance](https://learn.microsoft.com/en-us/cpp/windows/redistributing-visual-cpp-files?view=msvc-170),
 [SQLite public domain](https://www.sqlite.org/copyright.html).
 
-The deployed Microsoft DLLs require an owner/distributor rights check; possession
-of a developer installation is not taken as proof of redistribution rights. This
-is a pending release gate, not a claim that all third-party obligations are cleared.
-No Microsoft license dialog/account was accessed, no security setting was changed,
-and no administrator installation was required by the application tests.
+The release build restricts DLL discovery to the selected Python installation and
+Windows. The two VCRUNTIME DLLs are collected from CPython; the complete original
+Python license, including its Windows binary distribution conditions, is retained.
+The rebuilt Windows 10/11 package does not ship separately collected UCRT or
+API-set forwarding DLLs from unrelated build tools. Windows supplies its UCRT.
+Microsoft components retain their own terms and are not relicensed under MIT.
+The final binary and notices remain subject to the owner's publication review.
 
 ## Steam and screenshots
 

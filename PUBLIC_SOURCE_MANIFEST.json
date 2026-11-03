@@ -15,7 +15,7 @@
     },
     {
       "path": "Build-Portable.ps1",
-      "sha256": "114c609d8c06bc68561c9a00fcb825668f316c28660dfc60d41daf4d49834ebb"
+      "sha256": "08b7496d4f624671c91dbaa083ada00f3f09cd26ee6bb9a767256fe1c4fcd74d"
     },
     {
       "path": "L4D2ModDatabase.spec",
@@ -63,11 +63,11 @@
     },
     {
       "path": "docs/DEVELOPMENT.md",
-      "sha256": "fb45734214abc7e0345ee320cf49d6671041cfb57646ef9efcd6748f747f50f4"
+      "sha256": "3f557ed6ec2ede1ddf2c1914e4dcf199bfc0f1fa0361da7a5fe4370b4ddf4daf"
     },
     {
       "path": "docs/LICENSING.md",
-      "sha256": "09adfbe3c10ccaeb915a4642d6fca01a026f188ef834d27efdb44829642439d0"
+      "sha256": "6eb91c59a89f69202679bfd15bffec9de40fe2cf8db8f0c8c2c48caf3aeca659"
     },
     {
       "path": "docs/PRIVACY.md",
@@ -75,7 +75,7 @@
     },
     {
       "path": "docs/RELEASING.md",
-      "sha256": "9ef9cb516bf4c3c6b1bd8831af65ebc27ad85a104b5e9a9d4e42336d5c11ac3a"
+      "sha256": "376853d702173cc1842e775685aa626ce3abc57c6a04f8f9ca3a5c7d2156eca3"
     },
     {
       "path": "docs/screenshots/m64/all-mods.jpg",

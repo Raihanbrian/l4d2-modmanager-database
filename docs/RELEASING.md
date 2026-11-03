@@ -17,6 +17,10 @@ On Windows x64 with the pinned build environment:
 .venv\Scripts\python -B -m tools.prepare_source
 ```
 
+The build restricts DLL discovery to the chosen Python installation and Windows
+and locates Pillow notices through that interpreter. Use `-Python` to select an
+existing pinned build environment outside the checkout.
+
 Review the portable ZIP and `.sha256` sidecar. The smoke test extracts to a new
 ordinary writable test folder, removes Python from the EXE child's PATH, uses a
 separate application-data profile, tests unavailable/recovered fixture roots and

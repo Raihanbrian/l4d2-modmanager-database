@@ -81,6 +81,10 @@ python -B -m tools.smoke_portable --zip dist\L4D2ModDatabase-0.1.0rc4-win-x64.zi
 python -B -m tools.prepare_source
 ```
 
+Build-Portable.ps1 also accepts `-Python` with an existing build-environment
+interpreter path. DLL discovery is restricted to that Python installation and
+Windows; Pillow notices are located through the selected interpreter.
+
 Use the pinned virtual-environment Python when invoking tools. Smoke checks create
 their own synthetic `.test-tmp` game/profile; test first launch, restart, unavailable
 root and recovery; validate filters, edits, selected-pair reasons, cache and hashes.
