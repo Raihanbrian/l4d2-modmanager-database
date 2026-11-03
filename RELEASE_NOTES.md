@@ -1,7 +1,8 @@
 # 0.1.0rc4 — draft pre-release notes
 
-M6.4 stabilizes the Windows portable MVP. This draft is for owner review; no public
-release or download URL exists yet. Original source and documentation are licensed
+M6.4 stabilizes the Windows portable MVP. This draft is for review of a future
+portable release. The [source repository](https://github.com/Raihanbrian/l4d2-modmanager-database)
+is public; a portable GitHub release has not been published yet. Original source and documentation are licensed
 under MIT, copyright (c) 2026 RABrian. Binary redistribution review and final
 publication approval remain pending.
 

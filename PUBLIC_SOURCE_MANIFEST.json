@@ -39,11 +39,11 @@
     },
     {
       "path": "README.md",
-      "sha256": "b572a76abb06e0eaff376ad8e5ad3897db0e641f2b05b5d90e90674782579a6a"
+      "sha256": "381e81fd6864ef44fed422a6ffdb17ef9a77f0aed81b77e61aaf153c990271b9"
     },
     {
       "path": "RELEASE_NOTES.md",
-      "sha256": "2d3a095a42cabe11e59c5b7badb7f9ce743072e30ff37f192375ee4f629896e6"
+      "sha256": "86b812e3c733fdbb2d8325910321f6e9b2f2c7097d6b715e7ca1f59046e857fc"
     },
     {
       "path": "Start-Alpha.cmd",

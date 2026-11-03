@@ -3,7 +3,7 @@
 See what your installed Left 4 Dead 2 Workshop mods change, correct missing names,
 and review potential resource conflicts in a saved Planning set.
 
-**M6.4 / 0.1.0rc4 pre-release — awaiting owner approval. No public release has been
+**M6.4 / 0.1.0rc4 source preview. A portable GitHub release has not been
 published yet.** Windows x64 portable build; no Python or SQLite installation
 required for players. This independent project is not affiliated with Valve.
 
@@ -35,9 +35,11 @@ thumbnails. They contain no real Workshop artwork or personal catalog data.
 
 ## Download and start
 
-When the owner publishes a release, open its GitHub **Releases → Assets** and choose
-`L4D2ModDatabase-0.1.0rc4-win-x64.zip`. A public repository/download URL will be added
-after publication is approved. The source-code archive is for developers.
+Source repository: [Raihanbrian/l4d2-modmanager-database](https://github.com/Raihanbrian/l4d2-modmanager-database).
+
+When a portable release is published, open [GitHub Releases](https://github.com/Raihanbrian/l4d2-modmanager-database/releases)
+and choose `L4D2ModDatabase-0.1.0rc4-win-x64.zip` under Assets. A portable download
+is not available yet. The source-code archive is for developers.
 
 1. Extract the **entire ZIP** to an ordinary writable local folder.
 2. Open **L4D2ModDatabase.exe**. Keep its `_internal` folder beside it.
