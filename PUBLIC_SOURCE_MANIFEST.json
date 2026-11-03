@@ -39,11 +39,11 @@
     },
     {
       "path": "README.md",
-      "sha256": "381e81fd6864ef44fed422a6ffdb17ef9a77f0aed81b77e61aaf153c990271b9"
+      "sha256": "7510877706904c70349d9a5789c9c91115be391a4957bcf92e7f60f54e4784eb"
     },
     {
       "path": "RELEASE_NOTES.md",
-      "sha256": "86b812e3c733fdbb2d8325910321f6e9b2f2c7097d6b715e7ca1f59046e857fc"
+      "sha256": "49a73a24704b01c01de03bfa534b2e520232dd8e374a1aeee510d5074ef79365"
     },
     {
       "path": "Start-Alpha.cmd",
@@ -67,7 +67,7 @@
     },
     {
       "path": "docs/LICENSING.md",
-      "sha256": "6eb91c59a89f69202679bfd15bffec9de40fe2cf8db8f0c8c2c48caf3aeca659"
+      "sha256": "b8a6edda0d4f43081dcc09343eba4909d5bddcbe573dbac3f9d97610e01eac36"
     },
     {
       "path": "docs/PRIVACY.md",
@@ -243,15 +243,15 @@
     },
     {
       "path": "release/LICENSE_REVIEW.txt",
-      "sha256": "0f0ce277602abd6087e63e0587484366537106d187e8f8f837cf81cb86d99a5d"
+      "sha256": "4aebb73ac503ab1490a69d18dbb8b0f4895c0b65b39712bad4625abcc0763685"
     },
     {
       "path": "release/README.txt",
-      "sha256": "598df0622056471aad652a9b834d41259c10ceb98519bcb82e081b2c718af6e9"
+      "sha256": "92dec8f2fd561189d8fddf576bfff25d0f1b081a689da9c2b336eecf52c0c582"
     },
     {
       "path": "release/THIRD_PARTY_NOTICES.txt",
-      "sha256": "f11b737c3b93e14d6b120240dacab5b88d035f0bfd7b2bc81b0e0d5afbd6719a"
+      "sha256": "eab916f8c641373cb533c6dd31fd541835425baa7ab4b304894efd1b5e96042d"
     },
     {
       "path": "release/licenses/expat-COPYING.txt",

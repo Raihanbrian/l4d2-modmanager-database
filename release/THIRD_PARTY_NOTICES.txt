@@ -24,11 +24,13 @@ license also retains its bzip2/mpdecimal and other bundled notices.
 SQLite 3.50.4 is dedicated to the public domain by its upstream authors.
 This software is based in part on the work of the Independent JPEG Group.
 
-The package includes Microsoft C/UCRT/API runtime DLLs collected by PyInstaller.
-They remain subject to Microsoft terms and are not relicensed by this project.
-The owner/distributor must confirm redistribution rights before public release:
+The package includes VCRUNTIME140.dll and VCRUNTIME140_1.dll supplied with CPython.
+CPython's full original license, including its Windows binary distribution
+conditions, is included in licenses/python-LICENSE.txt. Microsoft components
+retain their own terms and are not relicensed under the project MIT license.
+No separately collected UCRT/API forwarding DLLs from other build tools are shipped.
+The intended Windows 10/11 platform supplies its own UCRT.
 https://learn.microsoft.com/en-us/cpp/windows/redistributing-visual-cpp-files?view=msvc-170
-No public clearance or ownership is claimed by this private candidate.
 
 Dependency pins/source reference:
 https://github.com/python/cpython/blob/v3.14.6/PCbuild/get_externals.bat

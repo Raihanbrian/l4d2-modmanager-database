@@ -1,10 +1,9 @@
-# 0.1.0rc4 — draft pre-release notes
+# 0.1.0rc4 — M6.4 Windows portable pre-release
 
-M6.4 stabilizes the Windows portable MVP. This draft is for review of a future
-portable release. The [source repository](https://github.com/Raihanbrian/l4d2-modmanager-database)
-is public; a portable GitHub release has not been published yet. Original source and documentation are licensed
-under MIT, copyright (c) 2026 RABrian. Binary redistribution review and final
-publication approval remain pending.
+M6.4 stabilizes the Windows portable MVP. Download the Windows x64 ZIP from
+[GitHub Releases](https://github.com/Raihanbrian/l4d2-modmanager-database/releases/tag/v0.1.0rc4). Original source and documentation
+are licensed under MIT, copyright (c) 2026 RABrian. Runtime components retain
+their own licenses and notices.
 
 ## Changes players will notice
 
@@ -44,6 +43,7 @@ runtime crash/multiplayer behavior are not certified. Current native-link test
 skips and engine path-comparison/VPK v2 coverage limits remain documented.
 
 The owner reported one external M6.3 tester launch/detection success. It is not a
-complete test matrix or an external pass for this rebuilt M6.4 binary. Exact final
-executed results and remaining gates are in the owner review report; unchecked
-checklist items must not be presented as completed tests.
+complete test matrix or an external pass for this rebuilt M6.4 binary. The rebuilt ZIP passed four isolated EXE scenarios (first launch, restart,
+unavailable game root and recovery) without external Python in the child PATH.
+Six public-source packaging tests passed. These checks do not replace a broad
+Windows/Steam compatibility matrix.

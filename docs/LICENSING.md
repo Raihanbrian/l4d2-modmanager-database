@@ -41,7 +41,8 @@ Python license, including its Windows binary distribution conditions, is retaine
 The rebuilt Windows 10/11 package does not ship separately collected UCRT or
 API-set forwarding DLLs from unrelated build tools. Windows supplies its UCRT.
 Microsoft components retain their own terms and are not relicensed under MIT.
-The final binary and notices remain subject to the owner's publication review.
+The owner approved publication of the Windows x64 pre-release on 3 November 2026.
+The original runtime conditions and notices remain part of the distribution.
 
 ## Steam and screenshots
 

@@ -3,8 +3,11 @@
 See what your installed Left 4 Dead 2 Workshop mods change, correct missing names,
 and review potential resource conflicts in a saved Planning set.
 
-**M6.4 / 0.1.0rc4 source preview. A portable GitHub release has not been
-published yet.** Windows x64 portable build; no Python or SQLite installation
+**M6.4 / 0.1.0rc4 Windows portable pre-release.**
+
+[**Download Windows x64 portable ZIP**](https://github.com/Raihanbrian/l4d2-modmanager-database/releases/download/v0.1.0rc4/L4D2ModDatabase-0.1.0rc4-win-x64.zip)
+
+Windows x64 portable build; no Python or SQLite installation
 required for players. This independent project is not affiliated with Valve.
 
 ## What it does
@@ -37,9 +40,8 @@ thumbnails. They contain no real Workshop artwork or personal catalog data.
 
 Source repository: [Raihanbrian/l4d2-modmanager-database](https://github.com/Raihanbrian/l4d2-modmanager-database).
 
-When a portable release is published, open [GitHub Releases](https://github.com/Raihanbrian/l4d2-modmanager-database/releases)
-and choose `L4D2ModDatabase-0.1.0rc4-win-x64.zip` under Assets. A portable download
-is not available yet. The source-code archive is for developers.
+Download [L4D2ModDatabase-0.1.0rc4-win-x64.zip](https://github.com/Raihanbrian/l4d2-modmanager-database/releases/download/v0.1.0rc4/L4D2ModDatabase-0.1.0rc4-win-x64.zip)
+from the [M6.4 release](https://github.com/Raihanbrian/l4d2-modmanager-database/releases/tag/v0.1.0rc4). The source-code archive is for developers.
 
 1. Extract the **entire ZIP** to an ordinary writable local folder.
 2. Open **L4D2ModDatabase.exe**. Keep its `_internal` folder beside it.
@@ -168,4 +170,4 @@ Original project source and documentation are licensed under the [MIT License](L
 Copyright (c) 2026 RABrian. Runtime libraries retain their own licenses/notices.
 Steam data, game names and Workshop assets are not relicensed.
 See [licensing](docs/LICENSING.md), [release preparation](docs/RELEASING.md) and
-[draft release notes](RELEASE_NOTES.md). Nothing has been published automatically.
+[release notes](RELEASE_NOTES.md). Nothing has been published automatically.

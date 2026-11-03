@@ -40,7 +40,8 @@ no verified engine path-comparison semantics; limited live VPK v2 coverage;
 native symlink/junction tests skipped where Windows privileges are unavailable.
 
 This EXE is unsigned. Windows may show trust/reputation warnings. Verify its
-source and SHA256; do not disable system security globally. No code signing,
-public distribution or runtime gameplay certification has been completed.
+source and SHA256; do not disable system security globally. Code signing and
+a broad runtime gameplay certification have not been performed.
 See LICENSE (MIT), PRIVACY.txt, LICENSE_REVIEW.txt and THIRD_PARTY_NOTICES.txt.
-Microsoft runtime distribution rights and final publication approval remain release gates.
+The original Python Windows binary conditions and all dependency notices are retained
+in the licenses folder. Project MIT terms do not relicense third-party components.

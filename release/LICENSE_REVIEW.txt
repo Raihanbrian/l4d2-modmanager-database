@@ -2,8 +2,10 @@ Application source and documentation: MIT License.
 Copyright (c) 2026 RABrian. See LICENSE for the full copyright and permission notice.
 Third-party runtime components retain their own licenses; see bundled licenses.
 
-The portable binary remains a release candidate. Microsoft runtime distribution
-rights and final public release approval remain separate owner review steps.
+The owner approved publication of this Windows x64 pre-release on 3 November 2026.
+The two Microsoft VCRUNTIME DLLs are supplied with CPython; its full original
+license, including Windows binary conditions, is retained in licenses/python-LICENSE.txt.
+Microsoft components retain their own terms and are not relicensed under MIT.
 No Valve or Workshop game content, previews, account data or personal catalog is
 included. Valve/Steam/Left 4 Dead are trademarks of their respective owners;
 this project is not affiliated with or endorsed by Valve.
