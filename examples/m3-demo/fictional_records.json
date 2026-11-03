@@ -1,0 +1,555 @@
+{
+  "installations": [
+    {
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "root_path": "E:\\FictionalSteam\\steamapps\\common\\Left 4 Dead 2",
+      "root_key": "e:/fictionalsteam/steamapps/common/left 4 dead 2",
+      "catalog_generation": 6,
+      "created_at": "2026-10-26T07:59:00.000000Z"
+    }
+  ],
+  "workshop_items": [
+    {
+      "workshop_id": "9100001001",
+      "first_seen_at": "2026-10-26T08:00:00.000000Z"
+    },
+    {
+      "workshop_id": "9100001002",
+      "first_seen_at": "2026-10-26T08:00:00.000000Z"
+    },
+    {
+      "workshop_id": "9100001003",
+      "first_seen_at": "2026-10-26T08:00:00.000000Z"
+    },
+    {
+      "workshop_id": "9100001004",
+      "first_seen_at": "2026-10-26T08:00:00.000000Z"
+    },
+    {
+      "workshop_id": "9100001005",
+      "first_seen_at": "2026-10-26T08:00:00.000000Z"
+    }
+  ],
+  "scan_runs": [
+    {
+      "scan_id": 1,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "started_at": "2026-10-26T08:00:00.000000Z",
+      "finished_at": "2026-10-26T08:00:03.000000Z",
+      "outcome": "committed",
+      "directory_status": "complete",
+      "base_generation": 0,
+      "committed_generation": 1
+    },
+    {
+      "scan_id": 2,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "started_at": "2026-10-26T08:01:00.000000Z",
+      "finished_at": "2026-10-26T08:01:03.000000Z",
+      "outcome": "committed",
+      "directory_status": "complete",
+      "base_generation": 1,
+      "committed_generation": 2
+    },
+    {
+      "scan_id": 3,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "started_at": "2026-10-26T08:02:00.000000Z",
+      "finished_at": "2026-10-26T08:02:03.000000Z",
+      "outcome": "committed",
+      "directory_status": "complete",
+      "base_generation": 2,
+      "committed_generation": 3
+    },
+    {
+      "scan_id": 4,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "started_at": "2026-10-26T08:03:00.000000Z",
+      "finished_at": "2026-10-26T08:03:01.000000Z",
+      "outcome": "committed",
+      "directory_status": "unavailable",
+      "base_generation": 3,
+      "committed_generation": 4
+    },
+    {
+      "scan_id": 5,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "started_at": "2026-10-26T08:04:00.000000Z",
+      "finished_at": "2026-10-26T08:04:01.000000Z",
+      "outcome": "committed",
+      "directory_status": "complete",
+      "base_generation": 4,
+      "committed_generation": 5
+    },
+    {
+      "scan_id": 6,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "started_at": "2026-10-26T08:04:03.000000Z",
+      "finished_at": "2026-10-26T08:04:04.000000Z",
+      "outcome": "committed",
+      "directory_status": "complete",
+      "base_generation": 5,
+      "committed_generation": 6
+    },
+    {
+      "scan_id": 7,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "started_at": "2026-10-26T08:05:00.000000Z",
+      "finished_at": "2026-10-26T08:05:01.000000Z",
+      "outcome": "failed",
+      "directory_status": "partial",
+      "base_generation": 6,
+      "committed_generation": null
+    }
+  ],
+  "packages": [
+    {
+      "package_id": "0cda40ac6e9b4a31b8876270e6b508a1",
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "workshop_id": "9100001001",
+      "relative_path": "left4dead2/addons/workshop/9100001001.VPK",
+      "relative_path_key": "left4dead2/addons/workshop/9100001001.vpk",
+      "presence_status": "present",
+      "index_status": "current",
+      "first_seen_scan_id": 1,
+      "last_seen_scan_id": 6,
+      "state_scan_id": 6,
+      "removed_at": null,
+      "observed_device_id": "1301352571",
+      "observed_file_id": "302231454903657293676801",
+      "observed_mode": 33206,
+      "observed_size_bytes": 82033,
+      "observed_mtime_ns": 1793001660000000000,
+      "observed_ctime_ns": 1793001660000000000,
+      "observed_attributes": 32,
+      "preview_relative_path": "left4dead2/addons/workshop/9100001001.jpg",
+      "preview_status": "present"
+    },
+    {
+      "package_id": "3a2f7c196d404b8a9e650aa243b9e702",
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "workshop_id": "9100001002",
+      "relative_path": "left4dead2/addons/workshop/9100001002.vpk",
+      "relative_path_key": "left4dead2/addons/workshop/9100001002.vpk",
+      "presence_status": "present",
+      "index_status": "error",
+      "first_seen_scan_id": 1,
+      "last_seen_scan_id": 6,
+      "state_scan_id": 6,
+      "removed_at": null,
+      "observed_device_id": "1301352571",
+      "observed_file_id": "302231454903657293676802",
+      "observed_mode": 33206,
+      "observed_size_bytes": 7,
+      "observed_mtime_ns": 1793001720000000000,
+      "observed_ctime_ns": 1793001720000000000,
+      "observed_attributes": 32,
+      "preview_relative_path": "left4dead2/addons/workshop/9100001002.jpg",
+      "preview_status": "present"
+    },
+    {
+      "package_id": "9b065137e4a4481bb3f07252c401d5a3",
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "workshop_id": "9100001003",
+      "relative_path": "left4dead2/addons/workshop/9100001003.vpk",
+      "relative_path_key": "left4dead2/addons/workshop/9100001003.vpk",
+      "presence_status": "removed",
+      "index_status": "unavailable",
+      "first_seen_scan_id": 1,
+      "last_seen_scan_id": 3,
+      "state_scan_id": 6,
+      "removed_at": "2026-10-26T08:04:04.000000Z",
+      "observed_device_id": "1301352571",
+      "observed_file_id": "302231454903657293676547",
+      "observed_mode": 33206,
+      "observed_size_bytes": 2118,
+      "observed_mtime_ns": 1793001590000000000,
+      "observed_ctime_ns": 1793001590000000000,
+      "observed_attributes": 32,
+      "preview_relative_path": null,
+      "preview_status": "missing"
+    },
+    {
+      "package_id": "f14a0cd2791e4ca1b64f2387ce890ad4",
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "workshop_id": null,
+      "relative_path": "left4dead2/addons/workshop/Mystery_Pack.VpK",
+      "relative_path_key": "left4dead2/addons/workshop/mystery_pack.vpk",
+      "presence_status": "present",
+      "index_status": "pending",
+      "first_seen_scan_id": 3,
+      "last_seen_scan_id": 6,
+      "state_scan_id": 6,
+      "removed_at": null,
+      "observed_device_id": "1301352571",
+      "observed_file_id": "302231454903657293676548",
+      "observed_mode": 33206,
+      "observed_size_bytes": 64,
+      "observed_mtime_ns": 1793001843000000000,
+      "observed_ctime_ns": 1793001843000000000,
+      "observed_attributes": 32,
+      "preview_relative_path": null,
+      "preview_status": "unknown"
+    },
+    {
+      "package_id": "5e9d71346c2741f4a8803d96b3a429e5",
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "workshop_id": "9100001004",
+      "relative_path": "left4dead2/addons/workshop/9100001004.vpk",
+      "relative_path_key": "left4dead2/addons/workshop/9100001004.vpk",
+      "presence_status": "present",
+      "index_status": "current",
+      "first_seen_scan_id": 1,
+      "last_seen_scan_id": 6,
+      "state_scan_id": 6,
+      "removed_at": null,
+      "observed_device_id": "1301352571",
+      "observed_file_id": "302231454903657293676549",
+      "observed_mode": 33206,
+      "observed_size_bytes": 77988,
+      "observed_mtime_ns": 1793001590000000000,
+      "observed_ctime_ns": 1793001590000000000,
+      "observed_attributes": 32,
+      "preview_relative_path": "left4dead2/addons/workshop/9100001004.jpg",
+      "preview_status": "present"
+    },
+    {
+      "package_id": "a1706e2b2f09422d9ca47f6a315dc8f6",
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "workshop_id": "9100001005",
+      "relative_path": "left4dead2/addons/workshop/9100001005.vpk",
+      "relative_path_key": "left4dead2/addons/workshop/9100001005.vpk",
+      "presence_status": "present",
+      "index_status": "current",
+      "first_seen_scan_id": 1,
+      "last_seen_scan_id": 6,
+      "state_scan_id": 6,
+      "removed_at": null,
+      "observed_device_id": "1301352571",
+      "observed_file_id": "302231454903657293676550",
+      "observed_mode": 33206,
+      "observed_size_bytes": 17514,
+      "observed_mtime_ns": 1793001590000000000,
+      "observed_ctime_ns": 1793001590000000000,
+      "observed_attributes": 32,
+      "preview_relative_path": "left4dead2/addons/workshop/9100001005.jpg",
+      "preview_status": "present"
+    }
+  ],
+  "package_indexes": [
+    {
+      "package_id": "0cda40ac6e9b4a31b8876270e6b508a1",
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "generation": 2,
+      "indexed_scan_id": 2,
+      "vpk_version": 1,
+      "tree_size": 101,
+      "parser_version": "vpk-index-v1",
+      "canonicalization_version": "vpk-path-v1",
+      "index_sha256": {
+        "hex": "E2108FBA70C8C95A68A7CB80129B7D5EDEABCD5190CE40D24D5AF9253F5FCB8C"
+      },
+      "source_device_id": "1301352571",
+      "source_file_id": "302231454903657293676801",
+      "source_mode": 33206,
+      "source_size_bytes": 82033,
+      "source_mtime_ns": 1793001660000000000,
+      "source_ctime_ns": 1793001660000000000,
+      "source_attributes": 32
+    },
+    {
+      "package_id": "3a2f7c196d404b8a9e650aa243b9e702",
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "generation": 1,
+      "indexed_scan_id": 1,
+      "vpk_version": 1,
+      "tree_size": 123,
+      "parser_version": "vpk-index-v1",
+      "canonicalization_version": "vpk-path-v1",
+      "index_sha256": {
+        "hex": "276FA00EB0F4F1359B2F65AF05721275DB94A2F244818274A0FE22AAF39B7D2F"
+      },
+      "source_device_id": "1301352571",
+      "source_file_id": "302231454903657293676546",
+      "source_mode": 33206,
+      "source_size_bytes": 82055,
+      "source_mtime_ns": 1793001590000000000,
+      "source_ctime_ns": 1793001590000000000,
+      "source_attributes": 32
+    },
+    {
+      "package_id": "9b065137e4a4481bb3f07252c401d5a3",
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "generation": 1,
+      "indexed_scan_id": 1,
+      "vpk_version": 1,
+      "tree_size": 58,
+      "parser_version": "vpk-index-v1",
+      "canonicalization_version": "vpk-path-v1",
+      "index_sha256": {
+        "hex": "68B13920121800D5EB4B8756ED782321E288FBA24EF0AA2729F00B761F4C5FD5"
+      },
+      "source_device_id": "1301352571",
+      "source_file_id": "302231454903657293676547",
+      "source_mode": 33206,
+      "source_size_bytes": 2118,
+      "source_mtime_ns": 1793001590000000000,
+      "source_ctime_ns": 1793001590000000000,
+      "source_attributes": 32
+    },
+    {
+      "package_id": "5e9d71346c2741f4a8803d96b3a429e5",
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "generation": 1,
+      "indexed_scan_id": 1,
+      "vpk_version": 1,
+      "tree_size": 152,
+      "parser_version": "vpk-index-v1",
+      "canonicalization_version": "vpk-path-v1",
+      "index_sha256": {
+        "hex": "12D318CA8F74876C09662327097CACA267AF9E8A228CDEF259BE2B69E009604E"
+      },
+      "source_device_id": "1301352571",
+      "source_file_id": "302231454903657293676549",
+      "source_mode": 33206,
+      "source_size_bytes": 77988,
+      "source_mtime_ns": 1793001590000000000,
+      "source_ctime_ns": 1793001590000000000,
+      "source_attributes": 32
+    },
+    {
+      "package_id": "a1706e2b2f09422d9ca47f6a315dc8f6",
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "generation": 1,
+      "indexed_scan_id": 1,
+      "vpk_version": 1,
+      "tree_size": 94,
+      "parser_version": "vpk-index-v1",
+      "canonicalization_version": "vpk-path-v1",
+      "index_sha256": {
+        "hex": "9ADA3055A9B181B95F754233C89D8BBD70EB3867176B4954A91607820CD3FD40"
+      },
+      "source_device_id": "1301352571",
+      "source_file_id": "302231454903657293676550",
+      "source_mode": 33206,
+      "source_size_bytes": 17514,
+      "source_mtime_ns": 1793001590000000000,
+      "source_ctime_ns": 1793001590000000000,
+      "source_attributes": 32
+    }
+  ],
+  "assets": [
+    {
+      "package_id": "0cda40ac6e9b4a31b8876270e6b508a1",
+      "original_path_bytes": {
+        "hex": "4D6174657269616C732F5368617265642F46696E6973682E766D74"
+      },
+      "canonical_path_bytes": {
+        "hex": "6D6174657269616C732F7368617265642F66696E6973682E766D74"
+      },
+      "utf8_valid": 1,
+      "crc32": 3958260987,
+      "preload_bytes": 0,
+      "archive_index": 32767,
+      "archive_offset": 65536,
+      "archive_length": 16384
+    },
+    {
+      "package_id": "0cda40ac6e9b4a31b8876270e6b508a1",
+      "original_path_bytes": {
+        "hex": "4D6F64656C732F576561706F6E732F765F5269666C655F414B34372E6D646C"
+      },
+      "canonical_path_bytes": {
+        "hex": "6D6F64656C732F776561706F6E732F765F7269666C655F616B34372E6D646C"
+      },
+      "utf8_valid": 1,
+      "crc32": 2694514304,
+      "preload_bytes": 0,
+      "archive_index": 32767,
+      "archive_offset": 0,
+      "archive_length": 65536
+    },
+    {
+      "package_id": "3a2f7c196d404b8a9e650aa243b9e702",
+      "original_path_bytes": {
+        "hex": "4D6F64656C732F5375727669766F72732F526F6368656C6C655F5265706C616365722E6D646C"
+      },
+      "canonical_path_bytes": {
+        "hex": "6D6F64656C732F7375727669766F72732F726F6368656C6C655F7265706C616365722E6D646C"
+      },
+      "utf8_valid": 1,
+      "crc32": 1900676229,
+      "preload_bytes": 0,
+      "archive_index": 32767,
+      "archive_offset": 0,
+      "archive_length": 49152
+    },
+    {
+      "package_id": "3a2f7c196d404b8a9e650aa243b9e702",
+      "original_path_bytes": {
+        "hex": "536F756E642F5375727669766F72732F566F6963655061636B5FB8B1B1BE2E776176"
+      },
+      "canonical_path_bytes": {
+        "hex": "736F756E642F7375727669766F72732F766F6963657061636B5FB8B1B1BE2E776176"
+      },
+      "utf8_valid": 0,
+      "crc32": 3720724249,
+      "preload_bytes": 8,
+      "archive_index": 32767,
+      "archive_offset": 49152,
+      "archive_length": 32768
+    },
+    {
+      "package_id": "9b065137e4a4481bb3f07252c401d5a3",
+      "original_path_bytes": {
+        "hex": "4D6174657269616C732F564755492F4855442F526574697265645F49636F6E732E766D74"
+      },
+      "canonical_path_bytes": {
+        "hex": "6D6174657269616C732F766775692F6875642F726574697265645F69636F6E732E766D74"
+      },
+      "utf8_valid": 1,
+      "crc32": 3081393376,
+      "preload_bytes": 0,
+      "archive_index": 32767,
+      "archive_offset": 0,
+      "archive_length": 2048
+    },
+    {
+      "package_id": "5e9d71346c2741f4a8803d96b3a429e5",
+      "original_path_bytes": {
+        "hex": "6D6174657269616C732F7368617265642F66696E6973682E766D74"
+      },
+      "canonical_path_bytes": {
+        "hex": "6D6174657269616C732F7368617265642F66696E6973682E766D74"
+      },
+      "utf8_valid": 1,
+      "crc32": 125501382,
+      "preload_bytes": 0,
+      "archive_index": 32767,
+      "archive_offset": 61440,
+      "archive_length": 16384
+    },
+    {
+      "package_id": "5e9d71346c2741f4a8803d96b3a429e5",
+      "original_path_bytes": {
+        "hex": "4D6F64656C732F5375727669766F72732F526F6368656C6C655F52656D69782E6D646C"
+      },
+      "canonical_path_bytes": {
+        "hex": "6D6F64656C732F7375727669766F72732F726F6368656C6C655F72656D69782E6D646C"
+      },
+      "utf8_valid": 1,
+      "crc32": 3731627212,
+      "preload_bytes": 0,
+      "archive_index": 32767,
+      "archive_offset": 32768,
+      "archive_length": 28672
+    },
+    {
+      "package_id": "5e9d71346c2741f4a8803d96b3a429e5",
+      "original_path_bytes": {
+        "hex": "4D6F64656C732F576561706F6E732F765F5269666C655F414B34372E6D646C"
+      },
+      "canonical_path_bytes": {
+        "hex": "6D6F64656C732F776561706F6E732F765F7269666C655F616B34372E6D646C"
+      },
+      "utf8_valid": 1,
+      "crc32": 2694335761,
+      "preload_bytes": 0,
+      "archive_index": 32767,
+      "archive_offset": 0,
+      "archive_length": 32768
+    },
+    {
+      "package_id": "a1706e2b2f09422d9ca47f6a315dc8f6",
+      "original_path_bytes": {
+        "hex": "536372697074732F4875642F5465616D5F436F6C6F72732E726573"
+      },
+      "canonical_path_bytes": {
+        "hex": "736372697074732F6875642F7465616D5F636F6C6F72732E726573"
+      },
+      "utf8_valid": 1,
+      "crc32": 399713824,
+      "preload_bytes": 0,
+      "archive_index": 32767,
+      "archive_offset": 16384,
+      "archive_length": 1024
+    },
+    {
+      "package_id": "a1706e2b2f09422d9ca47f6a315dc8f6",
+      "original_path_bytes": {
+        "hex": "536F756E642F55492F5465616D5F4E6F746963652E776176"
+      },
+      "canonical_path_bytes": {
+        "hex": "736F756E642F75692F7465616D5F6E6F746963652E776176"
+      },
+      "utf8_valid": 1,
+      "crc32": 2826737651,
+      "preload_bytes": 0,
+      "archive_index": 32767,
+      "archive_offset": 0,
+      "archive_length": 16384
+    }
+  ],
+  "scan_issues": [
+    {
+      "issue_id": 1,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "scan_id": 1,
+      "package_id": "3a2f7c196d404b8a9e650aa243b9e702",
+      "relative_path": "left4dead2/addons/workshop/9100001002.vpk",
+      "severity": "warning",
+      "code": "NON_UTF8_PATHS",
+      "message": "1 internal resource path contains undecoded bytes; original bytes retained."
+    },
+    {
+      "issue_id": 2,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "scan_id": 3,
+      "package_id": "3a2f7c196d404b8a9e650aa243b9e702",
+      "relative_path": "left4dead2/addons/workshop/9100001002.vpk",
+      "severity": "error",
+      "code": "TRUNCATED_VPK",
+      "message": "VPK is too short for its header."
+    },
+    {
+      "issue_id": 3,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "scan_id": 4,
+      "package_id": null,
+      "relative_path": "left4dead2/addons/workshop",
+      "severity": "error",
+      "code": "ENUMERATION_FAILED",
+      "message": "Workshop enumeration failed; previous valid indexes retained."
+    },
+    {
+      "issue_id": 4,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "scan_id": 6,
+      "package_id": "3a2f7c196d404b8a9e650aa243b9e702",
+      "relative_path": "left4dead2/addons/workshop/9100001002.vpk",
+      "severity": "error",
+      "code": "TRUNCATED_VPK",
+      "message": "VPK is too short for its header."
+    },
+    {
+      "issue_id": 5,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "scan_id": 7,
+      "package_id": null,
+      "relative_path": "left4dead2/addons/workshop",
+      "severity": "error",
+      "code": "ENUMERATION_FAILED",
+      "message": "Workshop enumeration was interrupted; absence is unconfirmed."
+    },
+    {
+      "issue_id": 6,
+      "installation_id": "7c1a9e306b454d0d9a651827d9f3ac10",
+      "scan_id": 7,
+      "package_id": null,
+      "relative_path": "left4dead2/addons/workshop",
+      "severity": "error",
+      "code": "CATALOG_COMMIT_FAILED",
+      "message": "Catalog transaction rolled back; previous committed catalog retained."
+    }
+  ]
+}

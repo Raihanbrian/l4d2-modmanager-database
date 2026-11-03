@@ -1,0 +1,57 @@
+# Python environments, build artifacts and test caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Synthetic test workspace (created and removed by tests)
+.test-tmp/
+
+# App-owned/local data must never be checked in
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite*-journal
+*.sqlite*-wal
+*.sqlite*-shm
+!examples/m3-demo/m3_demo.sqlite3
+*.log
+.env
+.env.*
+settings.local.*
+user-settings.*
+
+# Game/addon content and private owner review/history
+*.vpk
+*.rar
+*.xlsx
+/Handoffs/
+/M[0-9]*/
+/M[0-9]*.md
+/M[0-9]*.json
+!/M3_SCHEMA_PROPOSAL.md
+!/M3_SAMPLE_DATA.md
+/DECISIONS.md
+/TEST_RESULTS.md
+/CONFLICT_CLASSIFICATION.md
+/RELEASE_CANDIDATE_CHECKLIST.md
+/RELEASE_READINESS.md
+/docs/internal/
+/docs/screenshots/*.jpg
+/docs/screenshots/m63/
+/preferences.json
+*.partial
+/.codex/
+/.agents/
+/.aws/
+*.pem
+*.key

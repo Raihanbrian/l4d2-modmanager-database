@@ -1,0 +1,5 @@
+# Stable source bytes across Windows and other platforms, including manifest hashes.
+* text=auto eol=lf
+*.jpg -text
+*.png -text
+*.sqlite3 -text

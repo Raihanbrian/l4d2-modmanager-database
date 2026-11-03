@@ -1,0 +1,9 @@
+Application source and documentation: MIT License.
+Copyright (c) 2026 RABrian. See LICENSE for the full copyright and permission notice.
+Third-party runtime components retain their own licenses; see bundled licenses.
+
+The portable binary remains a release candidate. Microsoft runtime distribution
+rights and final public release approval remain separate owner review steps.
+No Valve or Workshop game content, previews, account data or personal catalog is
+included. Valve/Steam/Left 4 Dead are trademarks of their respective owners;
+this project is not affiliated with or endorsed by Valve.

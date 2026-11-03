@@ -1,0 +1,36 @@
+CPython 3.14.6 — Python Software Foundation License (includes bundled notices).
+Tcl/Tk 8.6 — Tcl/Tk permissive licenses; bundled runtime supplied by CPython.
+Pillow 12.3.0 — MIT-CMU and bundled codec notices in pillow-LICENSE.
+PyInstaller 6.22.3 — GPL-2.0-or-later with bootloader exception permitting
+distribution of frozen applications under their own licenses.
+PyInstaller hooks contrib 2026.9 — build-time hooks, GPL-2.0-or-later exception.
+Build-only packages: altgraph (MIT), packaging (Apache-2.0/BSD-2-Clause),
+pefile (MIT), pywin32-ctypes (BSD-3-Clause), setuptools (MIT).
+
+Official references:
+https://docs.python.org/3/license.html
+https://www.tcl-lang.org/software/tcltk/license.html
+https://pillow.readthedocs.io/en/stable/about.html#license
+https://pyinstaller.org/en/stable/license.html
+Only runtime/codecs actually collected by the build are shipped. The licenses
+folder contains their original license texts. No Workshop content is bundled.
+
+Additional bundled runtime notices reviewed in M6.4:
+OpenSSL 3.5.7 (OpenSSL Project Authors, Apache-2.0); libffi 3.4.4 (MIT);
+Expat (MIT; measured runtime expat_2.8.1); zlib-ng 2.2.4 (zlib);
+Zstandard 1.5.7 (BSD option); XZ 5.2.5 (see original COPYING for liblzma).
+Their original upstream texts are included in licenses. CPython's original
+license also retains its bzip2/mpdecimal and other bundled notices.
+SQLite 3.50.4 is dedicated to the public domain by its upstream authors.
+This software is based in part on the work of the Independent JPEG Group.
+
+The package includes Microsoft C/UCRT/API runtime DLLs collected by PyInstaller.
+They remain subject to Microsoft terms and are not relicensed by this project.
+The owner/distributor must confirm redistribution rights before public release:
+https://learn.microsoft.com/en-us/cpp/windows/redistributing-visual-cpp-files?view=msvc-170
+No public clearance or ownership is claimed by this private candidate.
+
+Dependency pins/source reference:
+https://github.com/python/cpython/blob/v3.14.6/PCbuild/get_externals.bat
+https://github.com/openssl/openssl/blob/openssl-3.5.7/LICENSE.txt
+https://www.sqlite.org/copyright.html
